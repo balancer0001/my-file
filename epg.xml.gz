@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Cinecanal">
+    <display-name lang="es">Canal Cinecanal</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/cinecanal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal truTV">
+    <display-name lang="es">Canal truTV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20181128005000 -0600" stop="20181128023500 -0600" channel="Canal Cinecanal">
+    <title lang="es">Resident Evil 2 Apocalipsis</title>
+  </programme>
+  <programme start="20181128023500 -0600" stop="20181128043000 -0600" channel="Canal Cinecanal">
+    <title lang="es">Carrie</title>
+  </programme>
+  <programme start="20181128043000 -0600" stop="20181128080000 -0600" channel="Canal Cinecanal">
+    <title lang="es">Hanna</title>
+  </programme>
+  <programme start="20181128080000 -0600" stop="20181128083000 -0600" channel="Canal Cinecanal">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20181128083000 -0600" stop="20181128090000 -0600" channel="Canal Cinecanal">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20181128090000 -0600" stop="20181128102500 -0600" channel="Canal Cinecanal">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20181128102500 -0600" stop="20181128115500 -0600" channel="Canal Cinecanal">
+    <title lang="es">Pequeños Invasores</title>
+  </programme>
+  <programme start="20181128115500 -0600" stop="20181128133500 -0600" channel="Canal Cinecanal">
+    <title lang="es">Un niñero sinvergüenza</title>
+  </programme>
+  <programme start="20181128133500 -0600" stop="20181128154500 -0600" channel="Canal Cinecanal">
+    <title lang="es">Aliados</title>
+    <title lang="xx">Allied</title>
+    <desc lang="es">Un oficial de inteligencia y una mujer de la resistencia francesa se reúnen en Londres.  Ahora su relación se ve amenazada por la presión de la guerra(n)</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Marion Cotillard</actor>
+      <actor>Lizzy Caplan</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Jared Harris</actor>
+      <actor>Camille Cottin</actor>
+      <producer>Graham King</producer>
+      <producer>Steve Starkey</producer>
+      <composer>Alan Silvestri</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aliados.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20181128154500 -0600" stop="20181128181500 -0600" channel="Canal Cinecanal">
+    <title lang="es">X-Men: Primera generación</title>
+  </programme>
+  <programme start="20181128181500 -0600" stop="20181128202000 -0600" channel="Canal Cinecanal">
+    <title lang="es">Assassin's Creed</title>
+    <title lang="xx">Assassin's Creed: The Movie</title>
+    <desc lang="es">Un hombre condenado a muerte que al ser ejecutado este despierta obtiene los recuerdos de una sociedad secreta de asesinos(n)</desc>
+    <credits>
+      <actor>Michael Fassbender</actor>
+      <actor>Marion Cotillard</actor>
+      <actor>Michael K. Williams</actor>
+      <actor>Ariane Labed</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Brendan Gleeson</actor>
+      <writer>Assassin's Creed de Ubisoft</writer>
+      <producer>Jean-Julien Baronnet</producer>
+      <producer>Patrick Crowley</producer>
+      <producer>Michael Fassbender</producer>
+      <producer>Frank Marshall</producer>
+      <producer>Conor McCaughan</producer>
+      <producer>Arnon Milchan</producer>
+      <composer>Jed Kurzel</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/assassin_s_creed.jpg" />
+    <country>Estados Unidos</country>
+    <country>Francia</country>
+    <country>España</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20181128202000 -0600" stop="20181128220000 -0600" channel="Canal Cinecanal">
+    <title lang="es">Una noche fuera de serie</title>
+  </programme>
+  <programme start="20181128220000 -0600" stop="20181129000500 -0600" channel="Canal Cinecanal">
+    <title lang="es">Los ilegales</title>
+  </programme>
+  <programme start="20181128010000 -0600" stop="20181128012300 -0600" channel="Canal truTV">
+    <title lang="es">Por encima del límite</title>
+  </programme>
+  <programme start="20181128012300 -0600" stop="20181128014500 -0600" channel="Canal truTV">
+    <title lang="es">Por encima del límite</title>
+  </programme>
+  <programme start="20181128014500 -0600" stop="20181128020600 -0600" channel="Canal truTV">
+    <title lang="es">Por encima del límite</title>
+  </programme>
+  <programme start="20181128020600 -0600" stop="20181128023500 -0600" channel="Canal truTV">
+    <title lang="es">Por encima del límite</title>
+  </programme>
+  <programme start="20181128023500 -0600" stop="20181128030000 -0600" channel="Canal truTV">
+    <title lang="es">Señuelo sobre ruedas</title>
+  </programme>
+  <programme start="20181128030000 -0600" stop="20181128032700 -0600" channel="Canal truTV">
+    <title lang="es">Señuelo sobre ruedas</title>
+  </programme>
+  <programme start="20181128032700 -0600" stop="20181128041300 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20181128041300 -0600" stop="20181128045900 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20181128045900 -0600" stop="20181128052300 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128052300 -0600" stop="20181128054700 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128054700 -0600" stop="20181128060800 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128060800 -0600" stop="20181128063200 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers: Especial</title>
+  </programme>
+  <programme start="20181128063200 -0600" stop="20181128065500 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers: Especial</title>
+  </programme>
+  <programme start="20181128065500 -0600" stop="20181128083100 -0600" channel="Canal truTV">
+    <title lang="es">American ninja warrior</title>
+    <sub-title lang="es">S7</sub-title>
+    <episode-num>S7</episode-num>
+  </programme>
+  <programme start="20181128083100 -0600" stop="20181128092000 -0600" channel="Canal truTV">
+    <title lang="es">Ink Master</title>
+    <desc lang="es">Los mejores artistas de tatuajes de los Estados Unidos compiten para llevarse el gran premio de 100,000 dólares y obtener el título de “Ink Master”(n)</desc>
+    <credits>
+      <actor>Dave Navarro</actor>
+      <actor>Chris Núñez</actor>
+      <actor>Oliver Peck</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ink_master.png" />
+  </programme>
+  <programme start="20181128092000 -0600" stop="20181128100500 -0600" channel="Canal truTV">
+    <title lang="es">Ink Master</title>
+    <desc lang="es">Los mejores artistas de tatuajes de los Estados Unidos compiten para llevarse el gran premio de 100,000 dólares y obtener el título de “Ink Master”(n)</desc>
+    <credits>
+      <actor>Dave Navarro</actor>
+      <actor>Chris Núñez</actor>
+      <actor>Oliver Peck</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ink_master.png" />
+  </programme>
+  <programme start="20181128100500 -0600" stop="20181128103000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128103000 -0600" stop="20181128105400 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128105400 -0600" stop="20181128114200 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20181128114200 -0600" stop="20181128120700 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128120700 -0600" stop="20181128123200 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128123200 -0600" stop="20181128125700 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128125700 -0600" stop="20181128132100 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers: Especial</title>
+  </programme>
+  <programme start="20181128132100 -0600" stop="20181128134200 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers: Especial</title>
+  </programme>
+  <programme start="20181128134200 -0600" stop="20181128143200 -0600" channel="Canal truTV">
+    <title lang="es">America's Funniest Videos LTA</title>
+  </programme>
+  <programme start="20181128143200 -0600" stop="20181128152100 -0600" channel="Canal truTV">
+    <title lang="es">Ink Master</title>
+    <desc lang="es">Los mejores artistas de tatuajes de los Estados Unidos compiten para llevarse el gran premio de 100,000 dólares y obtener el título de “Ink Master”(n)</desc>
+    <credits>
+      <actor>Dave Navarro</actor>
+      <actor>Chris Núñez</actor>
+      <actor>Oliver Peck</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ink_master.png" />
+  </programme>
+  <programme start="20181128152100 -0600" stop="20181128160600 -0600" channel="Canal truTV">
+    <title lang="es">Ink Master</title>
+    <desc lang="es">Los mejores artistas de tatuajes de los Estados Unidos compiten para llevarse el gran premio de 100,000 dólares y obtener el título de “Ink Master”(n)</desc>
+    <credits>
+      <actor>Dave Navarro</actor>
+      <actor>Chris Núñez</actor>
+      <actor>Oliver Peck</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ink_master.png" />
+  </programme>
+  <programme start="20181128160600 -0600" stop="20181128174200 -0600" channel="Canal truTV">
+    <title lang="es">American ninja warrior</title>
+    <sub-title lang="es">S7</sub-title>
+    <episode-num>S7</episode-num>
+  </programme>
+  <programme start="20181128174200 -0600" stop="20181128180500 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128180500 -0600" stop="20181128183000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128183000 -0600" stop="20181128185400 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128185400 -0600" stop="20181128191700 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128191700 -0600" stop="20181128193800 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20181128193800 -0600" stop="20181128200200 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers: Especial</title>
+  </programme>
+  <programme start="20181128200200 -0600" stop="20181128202700 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers: Especial</title>
+  </programme>
+  <programme start="20181128202700 -0600" stop="20181128211200 -0600" channel="Canal truTV">
+    <title lang="es">Ink Master</title>
+    <desc lang="es">Los mejores artistas de tatuajes de los Estados Unidos compiten para llevarse el gran premio de 100,000 dólares y obtener el título de “Ink Master”(n)</desc>
+    <credits>
+      <actor>Dave Navarro</actor>
+      <actor>Chris Núñez</actor>
+      <actor>Oliver Peck</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ink_master.png" />
+  </programme>
+  <programme start="20181128211200 -0600" stop="20181128215800 -0600" channel="Canal truTV">
+    <title lang="es">Ink Master</title>
+    <desc lang="es">Los mejores artistas de tatuajes de los Estados Unidos compiten para llevarse el gran premio de 100,000 dólares y obtener el título de “Ink Master”(n)</desc>
+    <credits>
+      <actor>Dave Navarro</actor>
+      <actor>Chris Núñez</actor>
+      <actor>Oliver Peck</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ink_master.png" />
+  </programme>
+  <programme start="20181128215800 -0600" stop="20181128224600 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20181128224600 -0600" stop="20181128233300 -0600" channel="Canal truTV">
+    <title lang="es">America's Funniest Videos LTA</title>
+  </programme>
+  <programme start="20181128233300 -0600" stop="20181129010100 -0600" channel="Canal truTV">
+    <title lang="es">American ninja warrior</title>
+    <sub-title lang="es">S7</sub-title>
+    <episode-num>S7</episode-num>
+  </programme>
+</tv>
